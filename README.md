@@ -1,3 +1,3 @@
 # best-repo-ever
-CHange in line 1 branch 1
+changes by branch 2
 CHanges by Divyanshu
